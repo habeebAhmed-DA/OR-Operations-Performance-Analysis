@@ -66,5 +66,13 @@ Link of the DataSet : https://www.kaggle.com/datasets/drjfalk/operating-room-uti
  
 ## 📷 Dashboard Preview
 
+### 1️⃣ OR Operations Executive Summary
+![Executive Summary](https://github.com/habeebAhmed-DA/OR-Operations-Performance-Analysis/blob/main/or_util_doc/OR_UTIL_Dashobards/ORD1.png)
+
+### 2️⃣ OR Volume and Overload Analysis
+![OR Volume and Overload Analysis](https://github.com/habeebAhmed-DA/OR-Operations-Performance-Analysis/blob/main/or_util_doc/OR_UTIL_Dashobards/ORD2.png)
+
+### 3️⃣ Time Performance and Efficiency Analysis
+![Time Performance and Efficiency Analysis](https://github.com/habeebAhmed-DA/OR-Operations-Performance-Analysis/blob/main/or_util_doc/OR_UTIL_Dashobards/ORD3.png)
   
 
